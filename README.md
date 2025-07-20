@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [gusgus157903@gmail.com](mailto:gusgus157903@gmail.com)
-* 🧠  I'm learning TypeScript, ReactJS, NextJS, ExpressJS, ElysiaJS
+* 🧠  I'm learning TypeScript, ReactJS, NextJS, Go
 
 ## Skills
 
@@ -37,11 +37,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,prisma,postman,docker,arduino,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,prisma,postman,arduino,figma" />
 
 ### Runtime & Package Managers
 
