@@ -25,11 +25,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,c,cpp,java,dart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go,py,c,cpp,java,dart" />
 
 ### Frameworks
 
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,express,elysia,nestjs,flutter,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,elysia,nestjs,flutter,fastapi" />
 
 ### UI Libraries
 
