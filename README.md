@@ -37,19 +37,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,prisma,postman,arduino,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,prisma,androidstudio,arduino,figma" />
 
 ### Runtime & Package Managers
 
 <img src="https://skillicons.dev/icons?i=nodejs,npm,bun" />
 
-### Hosting & Deployment Platforms
+### DevOps & Hosting
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,cloudflare,docker,jenkins,vercel,netlify" />
 
 ## My GitHub Stats
 
@@ -59,9 +59,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <a href="https://github.com/Chayathon">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayathon&langs_count=10&layout=compact&hide_border=true&locale=en&theme=radical&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-
-### Support Me
-<a href="https://www.buymeacoffee.com/chayathon.t" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
