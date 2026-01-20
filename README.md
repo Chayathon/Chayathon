@@ -19,29 +19,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [gusgus157903@gmail.com](mailto:gusgus157903@gmail.com)
-* 🧠  I'm learning TypeScript, ReactJS, NextJS, Go
+* 🧠  I'm learning Go, Django, LangChain, LangGraph
 
 ## Skills
 
-### Programming Languages
+### Tech Stacks
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go,py,c,cpp,java,dart" />
 
-### Frameworks
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,elysia,nestjs,flutter,fastapi" />
 
-### UI Libraries
-
 <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
-
-### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,prisma,androidstudio,arduino,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,vite,docker,postman,prisma,androidstudio,arduino,figma" />
 
 ### Runtime & Package Managers
 
@@ -49,7 +43,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### DevOps & Hosting
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,cloudflare,docker,jenkins,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,cloudflare,jenkins,vercel,netlify" />
 
 ## My GitHub Stats
 
