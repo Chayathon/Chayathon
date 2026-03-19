@@ -8,49 +8,70 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chayathon-termpipatphong/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Chayathon&style=flat-square&color=blue" alt="Profile views"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Chayathon&style=flat-square&color=blue" alt="profile views"/>
+  <a href="https://www.portfolio.chayathon.workers.dev">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:gusgus157903@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chayathon-termpipatphong">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <br>
 
+A passionate software developer with a strong background in web development and mobile development, and a keen interest in learning new technologies. I have experience working on various projects, ranging from small personal websites to large-scale applications. I am always eager to take on new challenges and collaborate with others to create innovative solutions.
+
 * 🌍  I'm based in Bangkok, Thailand
+* 🖥️  See my [Portfolio](http://portfolio.chayathon.workers.dev)
 * ✉️  You can contact me at [gusgus157903@gmail.com](mailto:gusgus157903@gmail.com)
-* 🧠  I'm learning Go, Django, LangChain, LangGraph
+* 🧠  I'm learning Go, LangChain, LangGraph
 
-## Skills
+<br>
 
-### Tech Stacks
+## 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go,py,c,cpp,java,dart" />
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,elysia,nestjs,flutter,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go,py,dart" />
 
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,flutter,tailwind,materialui,bootstrap,threejs" />
 
-### Tools
+### Backend
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,vite,docker,postman,prisma,androidstudio,arduino,figma" />
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,nestjs,express,elysia,django,fastapi" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite,mongodb" />
 
 ### Runtime & Package Managers
 
 <img src="https://skillicons.dev/icons?i=nodejs,npm,bun" />
 
-### DevOps & Hosting
+### DevOps & Hostings
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,cloudflare,jenkins,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,cloudflare,githubactions,jenkins,vercel,netlify" />
 
-## My GitHub Stats
+### Tools & Platforms
 
-<a href="http://www.github.com/Chayathon">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayathon&hide_border=true&theme=radical" />
-</a>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,vite,docker,postman,prisma,androidstudio,figma" />
+
 <br>
-<a href="https://github.com/Chayathon">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayathon&langs_count=10&layout=compact&hide_border=true&locale=en&theme=radical&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+
+## 📊 My GitHub Stats
+| Streaks                                                                                                                         | Stats                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chayathon&theme=onedark&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=195)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chayathon&show_icons=true&theme=onedark&hide_border=true&border_radius=20&rank_icon=github&card_width=500&card_height=195) |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayathon&theme=onedark&hide_border=true&border_radius=20&card_width=1100)](https://github.com/Chayathon/github-readme-stats)
+
+<br>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
