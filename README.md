@@ -4,21 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=I+am+a+Full+Stack+Developer.;I+ready+to+learn+new+technologies.;I+love+Coding!)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chayathon&style=flat-square&color=blue" alt="Profile views"/>
-  <br>
-  <a href="https://www.portfolio.chayathon.workers.dev">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-  <a href="mailto:gusgus157903@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chayathon-termpipatphong">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
+  	<img src="https://komarev.com/ghpvc/?username=Chayathon&style=flat-square&color=blue" alt="Profile views"/>
+  	<br>
+	<a href="https://portfolio.chayathon.workers.dev">
+		<img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
+	</a>
+	<a href="mailto:gusgus157903@gmail.com">
+		<img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email Badge"/>
+	</a>
+	<a href="https://www.linkedin.com/in/chayathon-termpipatphong">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
+	</a>
 </div>
 
 <br>
@@ -65,8 +65,8 @@ A passionate software developer with a strong background in web development and 
 <br>
 
 ## 📊 My GitHub Stats
-| Streaks                                                                                                                         | Stats                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Streaks                                                                                                                                                                                                                                            | Stats                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chayathon&theme=onedark&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=195)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chayathon&show_icons=true&theme=onedark&hide_border=true&border_radius=20&rank_icon=github&card_width=500&card_height=195) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayathon&theme=onedark&hide_border=true&border_radius=20&card_width=1100)](https://github.com/Chayathon/github-readme-stats)
