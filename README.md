@@ -44,7 +44,7 @@ A passionate software developer with a strong background in web development and 
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,nestjs,express,elysia,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nestjs,express,elysia,django,fastapi" />
 
 ### Database
 
